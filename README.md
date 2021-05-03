@@ -376,14 +376,13 @@ systemctl status gost
 
 国内站点安装方法：
 
-wget https://cdn.jsdelivr.net/gh/ymcoming/gost/install.sh && chmod +x ./install.sh && ./install.sh
+wget https://cdn.jsdelivr.net/gh/ymcoming/gost@2.11.2/install.sh && chmod +x ./install.sh && ./install.sh
 
-wget https://github.com.cnpmjs.org/ymcoming/gost/releases/download/1.0/install.sh
 
 1、https://github.com.cnpmjs.org 替代 https://github.com
 
 2、举例替换
 
- https://www.jsdelivr.com/package/gh/ymcoming/gost?version=2.11.2
+ https://www.jsdelivr.com/package/gh/ymcoming/gost
  
  
