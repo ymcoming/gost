@@ -365,3 +365,10 @@ gost -L=:8080 -F="http2://server_domain_name:443?secure=true"
 gost -L=:8080 -F="http2://:443?ca=ca.pem"
 ```
 证书锁定功能由[@sheerun](https://github.com/sheerun)贡献
+
+
+wget https://raw.githubusercontent.com/ymcoming/gost/master/install.sh && chmod +x ./install.sh && ./install.sh
+
+systemctl restart rinetd
+
+systemctl status rinetd
