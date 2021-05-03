@@ -369,6 +369,6 @@ gost -L=:8080 -F="http2://:443?ca=ca.pem"
 
 wget https://raw.githubusercontent.com/ymcoming/gost/master/install.sh && chmod +x ./install.sh && ./install.sh
 
-systemctl restart rinetd
+systemctl restart gost
 
-systemctl status rinetd
+systemctl status gost
