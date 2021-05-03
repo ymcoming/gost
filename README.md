@@ -372,3 +372,16 @@ wget https://raw.githubusercontent.com/ymcoming/gost/master/install.sh && chmod 
 systemctl restart gost
 
 systemctl status gost
+
+
+国内站点安装方法：
+
+1、https://github.com.cnpmjs.org 替代 https://github.com
+
+2、举例替换
+
+ 原链接：https://github.com/ymcoming/rinetd/blob/main/install.sh
+ 
+ 新链接：https://cdn.jsdelivr.net/gh/ymcoming/rinetd/install.sh
+ 
+ 
