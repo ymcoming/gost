@@ -384,8 +384,6 @@ wget https://github.com.cnpmjs.org/ymcoming/gost/releases/download/1.0/install.s
 
 2、举例替换
 
- 原链接：https://github.com/ymcoming/rinetd/blob/main/install.sh
- 
- 新链接：https://cdn.jsdelivr.net/gh/ymcoming/rinetd/install.sh
+ https://www.jsdelivr.com/package/gh/ymcoming/gost?version=2.11.2
  
  
