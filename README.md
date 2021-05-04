@@ -381,8 +381,6 @@ wget https://cdn.jsdelivr.net/gh/ymcoming/gost@2.11.2/install.sh && chmod +x ./i
 
 1、https://github.com.cnpmjs.org 替代 https://github.com
 
-2、举例替换
-
- https://www.jsdelivr.com/package/gh/ymcoming/gost
+2、https://www.jsdelivr.com/package/gh/ymcoming/gost
  
  
