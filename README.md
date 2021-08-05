@@ -1,6 +1,6 @@
 插入：一键修改机器DNS：
 
-chattr -i /etc/resolv.conf && wget -N --no-check-certificate https://raw.githubusercontent.com/chengziqaq/dnsunblocknetflix/master/dns-change.sh && chmod +x dns-change.sh && ./dns-change.sh 100.x.x.x
+chattr -i /etc/resolv.conf && wget -N --no-check-certificate https://raw.githubusercontent.com/ymcoming/gost/master/dns-change.sh && chmod +x dns-change.sh && ./dns-change.sh 100.x.x.x
 
 gost - GO Simple Tunnel
 ======
