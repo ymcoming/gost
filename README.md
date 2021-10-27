@@ -386,5 +386,9 @@ wget https://cdn.jsdelivr.net/gh/ymcoming/gost@2.11.2/install.sh && chmod +x ./i
 1、https://github.com.cnpmjs.org 替代 https://github.com
 
 2、https://www.jsdelivr.com/package/gh/ymcoming/gost
+
+纯IPV6安装，也可过GFW：
+
+wget https://hub.fastgit.org/ymcoming/gost/blob/master/install.sh && chmod +x ./install.sh && ./install.sh
  
  
