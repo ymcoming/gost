@@ -390,5 +390,7 @@ wget https://cdn.jsdelivr.net/gh/ymcoming/gost@2.11.2/install.sh && chmod +x ./i
 纯IPV6安装，也可过GFW：
 
 wget https://hub.fastgit.org/ymcoming/gost/blob/master/install.sh && chmod +x ./install.sh && ./install.sh
+
+wget https://raw.fastgit.org/ymcoming/gost/master/install.sh && chmod +x ./install.sh && ./install.sh
  
  
